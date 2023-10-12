@@ -6,11 +6,10 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/sumit.analyzen](https://www.facebook.com/sihab.molla.98/)) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sihab-molla/) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801608168147) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihabmolla10@gmail.com)
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+🌴: &emsp;I’m currently learning Node js. <br/>
+:message: &emsp;Ask me about React js and Next js <br/>
+:e-mail: &emsp;How to reach me: sihabmolla10@gmail.com.<br/>
+
 
 #### Things I code with
 
