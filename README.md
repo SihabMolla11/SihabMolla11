@@ -1,7 +1,7 @@
 ## Hi I'm Sihab Uddin Molla
 
 <!--
-**SihabMolla11/SihabMolla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A passionate frontend developer
 
 Here are some ideas to get you started:
 
