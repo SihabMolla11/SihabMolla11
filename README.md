@@ -1,6 +1,6 @@
-<h2 style="align: center; color: blue;">Hi, I'm Sihab Uddin Molla</h2>>
+<h2 style="color: blue"  align="center">Hi, I'm Sihab Uddin Molla</h2>
 
-### A passionate Mern Stack developer
+<h3 style="color: blue" align="center"> A passionate Mern Stack developer</h3>
 
 :coffee: &emsp;Connect with me!
 
