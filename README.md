@@ -1,4 +1,4 @@
-<h2 style="color:blue;">Hi I am Sihab Uddin Molla</h2>
+## Hi I'm Sihab Uddin Molla
 
 <!--
 **SihabMolla11/SihabMolla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
