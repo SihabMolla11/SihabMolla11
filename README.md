@@ -1,4 +1,4 @@
-<h2 style="text-align: center; color: blue;">Hi, I'm Sihab Uddin Molla</h2>>
+<h2 style="align: center; color: blue;">Hi, I'm Sihab Uddin Molla</h2>>
 
 ### A passionate Mern Stack developer
 
