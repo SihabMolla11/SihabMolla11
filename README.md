@@ -1,6 +1,6 @@
 ## Hi I'm Sihab Uddin Molla 
 
-### A passionate Front-End developer
+### A passionate Mern Stack developer
 
 :coffee: &emsp;Connect with me!
 
