@@ -26,9 +26,8 @@
 
 <a href="http://www.github.com/SihabMolla11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mehedi-hasan&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SihabMolla11"><img src="[https://github-readme-activity-graph.cyclic.app/graph?username=SihabMolla11=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph]
-<!-- (https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)" alt="GitHub Commits Graph" /></a> -->
-[![GitHub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SihabMolla11)
+[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SihabMolla11&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/SihabMolla11)
+
 
 <a href="https://github.com/SihabMolla11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mehedi-hasan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
